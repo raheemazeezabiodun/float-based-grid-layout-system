@@ -4,7 +4,8 @@
   "description": "A float based grid layout system",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "compile:sass": "node-sass main.scss css/float-grid.css",
+    "watch:sass": "node-sass main.scss css/float-grid.css -w"
   },
   "repository": {
     "type": "git",

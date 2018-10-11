@@ -1,0 +1,3 @@
+@function getwidth($size, $col, $div) {
+    @return (calc($size * ((100% - $col * #{$gutter-horizontal})/ $div))) + px;
+}
