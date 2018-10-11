@@ -47,3 +47,8 @@ Then call any of the column class e.g
 * `<div class="col-2-of-3"></div>`
 * `<div class="col-2-of-4"></div>`
 * `<div class="col-3-of-4"></div>`
+
+
+## TODO
+Do you want to contribute to this project? A quick way to do that is to use the
+function in `abstracts/_functions.scss` in `layouts/_grid.scss`
