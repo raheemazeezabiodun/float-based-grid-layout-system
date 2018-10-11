@@ -1,0 +1,27 @@
+{
+  "name": "float-based-grid",
+  "version": "1.0.0",
+  "description": "A float based grid layout system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raheemazeezabiodun/float-based-grid-layout-system.git"
+  },
+  "keywords": [
+    "SASS",
+    "GRID",
+    "CSS"
+  ],
+  "author": "Raheem Azeez Abiodun <raheemazeez4@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raheemazeezabiodun/float-based-grid-layout-system/issues"
+  },
+  "homepage": "https://github.com/raheemazeezabiodun/float-based-grid-layout-system#readme",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
