@@ -1,6 +1,13 @@
-# Float Based Grid Layout system
+# Responsive Float Based Grid Layout system
 
-A simple based layout system built with float property and SASS
+A simple responsive based layout system built with float property and SASS
+
+## Breakpoints
+* `phone - 600px`
+* `Tablet-Portrait - 900px`
+* `Tablet-Landscape - 1200px`
+* `Big Desktop - 1800px+`
+
 
 
 ## Example
